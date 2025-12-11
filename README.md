@@ -83,21 +83,21 @@ hobbies: ["Tech Blogging", "Travel", "Explore"]
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lokmansarkar99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-five-sigma-36.vercel.app/api?username=lokmansarkar99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokmansarkar99&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmansarkar99&theme=tokyonight&hide_border=true&layout=compact" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lokmansarkar99&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-five-sigma-36.vercel.app/api/top-langs/?username=lokmansarkar99&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats-five-sigma-36.vercel.app/api/wakatime?username=lokmansarkar99&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokmansarkar99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+  <img src="https://github-profile-trophy-three-nu.vercel.app/?username=lokmansarkar99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div> -->
 
 ---
 
